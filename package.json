@@ -1,0 +1,25 @@
+{
+  "name": "native-bridge",
+  "version": "0.0.0",
+  "description": "A lightweight JSBridge between mobile-web and mobile-native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangrau/native-bridge.git"
+  },
+  "keywords": [
+    "JSBridge",
+    "react",
+    "mobile-web",
+    "web-view"
+  ],
+  "author": "Quang Rau <lethanhquang910@gmail.com> (https://quangrau.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quangrau/native-bridge/issues"
+  },
+  "homepage": "https://github.com/quangrau/native-bridge#readme"
+}
